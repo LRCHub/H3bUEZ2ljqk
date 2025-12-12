@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "哀愁さえも仲間",
+  "base_artist": "春猿火",
+  "createdAt": "2025-12-12T13:52:20.257881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "哀愁さえも仲間",
+      "artist": "春猿火",
+      "has_synced": true,
+      "path": "select/01_哀愁さえも仲間_春猿火.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "哀愁さえも仲間",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_哀愁さえも仲間_春猿火.txt"
+    }
+  ]
+}
